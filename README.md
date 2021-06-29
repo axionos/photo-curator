@@ -1,3 +1,6 @@
+# photo-curator
+Photo Curator displays 10 curated photos from Pexels. Pexels API Key is required to run the app.
+
 ## MVP
 1. Display 10 curated photos on the home screen. On the server side, consume the Curated photos resource and return the necessary response to render the photos. We want this to be instant so it should be server-side rendered
 
@@ -30,4 +33,4 @@ As a developer working on the project locally...
 
 Compile and run the app in one step by `npm run start-dev`. Open [http://localhost:3000](http://localhost:3000) to view and test it in the browser.
 
-# photo-curator
+
